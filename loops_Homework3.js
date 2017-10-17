@@ -1,7 +1,5 @@
-
-
-
-// - Meghan is older than 25 Trent is older than 25
+// For each problem below, write a loop that prints the given output. Some of the problems will require you to write an if statement in the loop.
+// Assume a global array called students is defined as follows:
 
 var students = [{
  name: 'Liz',
