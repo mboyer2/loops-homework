@@ -32,7 +32,7 @@ for ( var i = 0; i < students.length; i++){
 // - Liz, Boulder Meghan, Denver Trent, Boulder Chelsea, Boulder Amir, Denver
 
 for ( var i = 0; i < students.length; i++){
-	console.log(students[i].name, students[i].city)
+	console.log(students[i].name, ", ", students[i].city)
 }
 
 // - Liz is from Boulder Trent is from Boulder Chelsea is from Boulder
